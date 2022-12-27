@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, my name is Beatriz and I am developing skills in the area of ​​information technology.
 
 <!--
 **BeaGabriela/BeaGabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
