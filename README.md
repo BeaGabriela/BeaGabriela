@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello! Welcome to my Github profile.<br>👩🏻 My name is Beatriz and my nickname is "Bia".<br>📕 I am currently studying at the system development area at SENAI.<br>💻 I'm learning FrontEnd(HTML, CSS e JS), BackEnd(Js), DataBase(MYSQL) e MOBILE(React-native).<br><br>
 
-
+![Snake animation](https://github.com/BeaGabriela/BeaGabriela/blob/output/github-contribution-grid-snake.svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/beatriz-souza-9639ab1b4) 
 
