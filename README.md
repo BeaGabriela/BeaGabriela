@@ -19,4 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=BeaGabriela&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Snake animation](https://github.com/BeaGabriela/BeaGabriela/blob/output/github-contribution-activity-grid-snake.svg)
+![Snake animation](https://github.com/BeaGabriela/BeaGabriela/blob/output/github-contribution-grid-snake.svg)
