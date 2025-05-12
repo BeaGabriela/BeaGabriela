@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! Welcome to my Github profile.<br>👩🏻 My name is Beatriz and my nickname is "Bia".<br>📕 I am currently studying at the system development area at SENAI.<br>💻 I'm learning FrontEnd(HTML, CSS e JS), BackEnd(Js), DataBase(MYSQL) e MOBILE(React-native).<br><br>
+👋 Hello! Welcome to my Github profile.<br>👩🏻 My name is Beatriz and my nickname is "Bea".<br>📕 I am currently studying at the system development area.<br>💻 I'm learning FrontEnd(HTML, CSS e JS), BackEnd(JS, Python), DataBase(MYSQL(MariaDB)) e MOBILE(React-native).<br><br>
 
 
 ## 🌐 Socials:
